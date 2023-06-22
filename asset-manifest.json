@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tannerhelton-blc/aris-sheets-test.git/static/css/main.073c9b0a.css",
-    "main.js": "/tannerhelton-blc/aris-sheets-test.git/static/js/main.d77c4e86.js",
-    "static/js/787.0f111c1c.chunk.js": "/tannerhelton-blc/aris-sheets-test.git/static/js/787.0f111c1c.chunk.js",
-    "static/media/logo.svg": "/tannerhelton-blc/aris-sheets-test.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tannerhelton-blc/aris-sheets-test.git/index.html",
-    "main.073c9b0a.css.map": "/tannerhelton-blc/aris-sheets-test.git/static/css/main.073c9b0a.css.map",
-    "main.d77c4e86.js.map": "/tannerhelton-blc/aris-sheets-test.git/static/js/main.d77c4e86.js.map",
-    "787.0f111c1c.chunk.js.map": "/tannerhelton-blc/aris-sheets-test.git/static/js/787.0f111c1c.chunk.js.map"
+    "main.css": "/aris-sheets-test/static/css/main.073c9b0a.css",
+    "main.js": "/aris-sheets-test/static/js/main.2fe7e2e6.js",
+    "static/js/787.0f111c1c.chunk.js": "/aris-sheets-test/static/js/787.0f111c1c.chunk.js",
+    "static/media/logo.svg": "/aris-sheets-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aris-sheets-test/index.html",
+    "main.073c9b0a.css.map": "/aris-sheets-test/static/css/main.073c9b0a.css.map",
+    "main.2fe7e2e6.js.map": "/aris-sheets-test/static/js/main.2fe7e2e6.js.map",
+    "787.0f111c1c.chunk.js.map": "/aris-sheets-test/static/js/787.0f111c1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d77c4e86.js"
+    "static/js/main.2fe7e2e6.js"
   ]
 }
