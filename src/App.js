@@ -27,6 +27,7 @@ function App() {
       <button onClick={getData}>Get Data</button>
       <br />
       <p>Column A: {data && csvToArray(data)[1][0]}</p>
+      <a href="https://docs.google.com/spreadsheets/d/1rdttUCB0gfS8KXJ19wnUY_C0HL_PjNxjL_xBRsSDiSE/edit?usp=sharing" target='_blank'><button>Google Sheet</button></a>
     </div>
   );
 }
